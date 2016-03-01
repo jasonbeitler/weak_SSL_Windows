@@ -10,4 +10,4 @@ Works on
 * Server 2008/R2
 * Server 2012/R2
 
-Note if you are still using Server 2003 you need to upgrade EOL is here and you be pwned.
+Note if you are still using Server 2003 you need to upgrade, EOL is here and you be pwned.
