@@ -1,6 +1,6 @@
 # weak_SSL_Windows
 
-Simple Reg file to disable Weak SSL on Windows. 
+Simple Reg file to disable Weak SSL on Windows. No reboot or restarting of services needed.
 
 Works on
 * Windows 7
