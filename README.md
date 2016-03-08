@@ -5,7 +5,7 @@ Simple Reg file to disable Weak SSL on Windows. No reboot or restarting of servi
 # To run
 Rename file to .reg and run from PowerShell
 
-Works on
+#Works on
 * Windows 7
 * Windows 8/8.1
 * Windows 10
